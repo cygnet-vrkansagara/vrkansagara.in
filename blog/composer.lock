@@ -1,10 +1,11 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "6cdda3b0773159e30d8d9ad368c47c41",
+    "hash": "954b0e08f174789d99f558dbbace56d2",
+    "content-hash": "f8cdf68ef609c3c979d0a851960156a2",
     "packages": [
         {
             "name": "dflydev/ant-path-matcher",
@@ -53,7 +54,7 @@
                 "path",
                 "pattern"
             ],
-            "time": "2012-12-03T05:03:00+00:00"
+            "time": "2012-12-03 05:03:00"
         },
         {
             "name": "dflydev/apache-mime-types",
@@ -108,7 +109,7 @@
                 "mime",
                 "mimetypes"
             ],
-            "time": "2013-05-14T02:02:01+00:00"
+            "time": "2013-05-14 02:02:01"
         },
         {
             "name": "dflydev/canal",
@@ -163,7 +164,7 @@
                 "mime",
                 "type"
             ],
-            "time": "2013-05-14T05:22:25+00:00"
+            "time": "2013-05-14 05:22:25"
         },
         {
             "name": "dflydev/dot-access-configuration",
@@ -223,7 +224,7 @@
                 "config",
                 "configuration"
             ],
-            "time": "2018-09-08T23:00:17+00:00"
+            "time": "2018-09-08 23:00:17"
         },
         {
             "name": "dflydev/dot-access-data",
@@ -282,7 +283,7 @@
                 "dot",
                 "notation"
             ],
-            "time": "2017-01-20T21:14:22+00:00"
+            "time": "2017-01-20 21:14:22"
         },
         {
             "name": "dflydev/placeholder-resolver",
@@ -334,7 +335,7 @@
                 "placeholder",
                 "resolver"
             ],
-            "time": "2012-10-28T21:08:28+00:00"
+            "time": "2012-10-28 21:08:28"
         },
         {
             "name": "doctrine/inflector",
@@ -401,7 +402,7 @@
                 "singularize",
                 "string"
             ],
-            "time": "2018-01-09T20:05:19+00:00"
+            "time": "2018-01-09 20:05:19"
         },
         {
             "name": "evenement/evenement",
@@ -444,7 +445,53 @@
                 "event-dispatcher",
                 "event-emitter"
             ],
-            "time": "2017-07-23T21:35:13+00:00"
+            "time": "2017-07-23 21:35:13"
+        },
+        {
+            "name": "mavimo/sculpin-redirect-bundle",
+            "version": "dev-master",
+            "target-dir": "Mavimo/Sculpin/Bundle/RedirectBundle",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mavimo/sculpin-redirect-bundle.git",
+                "reference": "5c42c401942008de04aa1e1d64161ca105568e2a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mavimo/sculpin-redirect-bundle/zipball/5c42c401942008de04aa1e1d64161ca105568e2a",
+                "reference": "5c42c401942008de04aa1e1d64161ca105568e2a",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.2"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Mavimo\\Sculpin\\Bundle\\RedirectBundle": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Marco Vito Moscaritolo",
+                    "email": "marco@mavimo.org",
+                    "homepage": "http://www.mavimo.org"
+                }
+            ],
+            "description": "Sculpin Redirect Bundle",
+            "homepage": "https://sculpin.io",
+            "keywords": [
+                "blog",
+                "blogging",
+                "redirect",
+                "site",
+                "static"
+            ],
+            "time": "2014-01-04 14:40:02"
         },
         {
             "name": "michelf/php-markdown",
@@ -490,7 +537,7 @@
             "keywords": [
                 "markdown"
             ],
-            "time": "2018-01-15T00:49:33+00:00"
+            "time": "2018-01-15 00:49:33"
         },
         {
             "name": "netcarver/textile",
@@ -543,7 +590,7 @@
                 "plaintext",
                 "textile"
             ],
-            "time": "2019-01-26T17:03:58+00:00"
+            "time": "2019-01-26 17:03:58"
         },
         {
             "name": "psr/container",
@@ -592,7 +639,7 @@
                 "container-interop",
                 "psr"
             ],
-            "time": "2017-02-14T16:28:37+00:00"
+            "time": "2017-02-14 16:28:37"
         },
         {
             "name": "psr/http-message",
@@ -642,7 +689,7 @@
                 "request",
                 "response"
             ],
-            "time": "2016-08-06T14:39:51+00:00"
+            "time": "2016-08-06 14:39:51"
         },
         {
             "name": "psr/log",
@@ -689,7 +736,7 @@
                 "psr",
                 "psr-3"
             ],
-            "time": "2018-11-20T15:27:04+00:00"
+            "time": "2018-11-20 15:27:04"
         },
         {
             "name": "react/cache",
@@ -729,7 +776,7 @@
                 "promise",
                 "reactphp"
             ],
-            "time": "2018-06-25T12:52:40+00:00"
+            "time": "2018-06-25 12:52:40"
         },
         {
             "name": "react/dns",
@@ -774,7 +821,7 @@
                 "dns-resolver",
                 "reactphp"
             ],
-            "time": "2019-04-01T07:31:55+00:00"
+            "time": "2019-04-01 07:31:55"
         },
         {
             "name": "react/event-loop",
@@ -816,7 +863,7 @@
                 "asynchronous",
                 "event-loop"
             ],
-            "time": "2019-02-07T16:19:49+00:00"
+            "time": "2019-02-07 16:19:49"
         },
         {
             "name": "react/http",
@@ -864,7 +911,7 @@
                 "server",
                 "streaming"
             ],
-            "time": "2019-01-16T07:26:32+00:00"
+            "time": "2019-01-16 07:26:32"
         },
         {
             "name": "react/promise",
@@ -910,7 +957,7 @@
                 "promise",
                 "promises"
             ],
-            "time": "2019-01-07T21:25:54+00:00"
+            "time": "2019-01-07 21:25:54"
         },
         {
             "name": "react/promise-stream",
@@ -966,7 +1013,7 @@
                 "stream",
                 "unwrap"
             ],
-            "time": "2017-12-22T12:02:05+00:00"
+            "time": "2017-12-22 12:02:05"
         },
         {
             "name": "react/promise-timer",
@@ -1019,7 +1066,7 @@
                 "timeout",
                 "timer"
             ],
-            "time": "2019-03-27T18:10:32+00:00"
+            "time": "2019-03-27 18:10:32"
         },
         {
             "name": "react/socket",
@@ -1066,7 +1113,7 @@
                 "reactphp",
                 "stream"
             ],
-            "time": "2019-01-07T14:10:13+00:00"
+            "time": "2019-01-07 14:10:13"
         },
         {
             "name": "react/stream",
@@ -1112,7 +1159,7 @@
                 "stream",
                 "writable"
             ],
-            "time": "2019-01-01T16:15:09+00:00"
+            "time": "2019-01-01 16:15:09"
         },
         {
             "name": "ringcentral/psr7",
@@ -1170,7 +1217,7 @@
                 "stream",
                 "uri"
             ],
-            "time": "2018-01-15T21:00:49+00:00"
+            "time": "2018-01-15 21:00:49"
         },
         {
             "name": "sculpin/sculpin",
@@ -1273,24 +1320,24 @@
                 "site",
                 "static"
             ],
-            "time": "2019-04-17T20:23:29+00:00"
+            "time": "2019-04-17 20:23:29"
         },
         {
             "name": "sculpin/sculpin-theme-composer-plugin",
-            "version": "v1.0.2",
+            "version": "v1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sculpin/sculpin-theme-composer-plugin.git",
-                "reference": "f22bbf89971054e0e37983263828ca39ffca2437"
+                "reference": "8b5bb152bd7d4516edb3493a9cf3204ed99e9ef5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sculpin/sculpin-theme-composer-plugin/zipball/f22bbf89971054e0e37983263828ca39ffca2437",
-                "reference": "f22bbf89971054e0e37983263828ca39ffca2437",
+                "url": "https://api.github.com/repos/sculpin/sculpin-theme-composer-plugin/zipball/8b5bb152bd7d4516edb3493a9cf3204ed99e9ef5",
+                "reference": "8b5bb152bd7d4516edb3493a9cf3204ed99e9ef5",
                 "shasum": ""
             },
             "require": {
-                "composer-plugin-api": "^1.1"
+                "composer-plugin-api": "^1.0"
             },
             "type": "composer-plugin",
             "extra": {
@@ -1308,7 +1355,7 @@
             "license": [
                 "MIT"
             ],
-            "time": "2017-02-27T17:40:03+00:00"
+            "time": "2016-05-24 19:51:53"
         },
         {
             "name": "symfony/config",
@@ -1371,7 +1418,7 @@
             ],
             "description": "Symfony Config Component",
             "homepage": "https://symfony.com",
-            "time": "2019-04-01T14:03:25+00:00"
+            "time": "2019-04-01 14:03:25"
         },
         {
             "name": "symfony/console",
@@ -1443,7 +1490,7 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "https://symfony.com",
-            "time": "2019-04-08T14:23:48+00:00"
+            "time": "2019-04-08 14:23:48"
         },
         {
             "name": "symfony/contracts",
@@ -1511,7 +1558,7 @@
                 "interoperability",
                 "standards"
             ],
-            "time": "2018-12-05T08:06:11+00:00"
+            "time": "2018-12-05 08:06:11"
         },
         {
             "name": "symfony/debug",
@@ -1567,7 +1614,7 @@
             ],
             "description": "Symfony Debug Component",
             "homepage": "https://symfony.com",
-            "time": "2019-04-11T11:27:41+00:00"
+            "time": "2019-04-11 11:27:41"
         },
         {
             "name": "symfony/dependency-injection",
@@ -1640,7 +1687,7 @@
             ],
             "description": "Symfony DependencyInjection Component",
             "homepage": "https://symfony.com",
-            "time": "2019-04-16T11:19:53+00:00"
+            "time": "2019-04-16 11:19:53"
         },
         {
             "name": "symfony/event-dispatcher",
@@ -1704,7 +1751,7 @@
             ],
             "description": "Symfony EventDispatcher Component",
             "homepage": "https://symfony.com",
-            "time": "2019-04-06T13:51:08+00:00"
+            "time": "2019-04-06 13:51:08"
         },
         {
             "name": "symfony/filesystem",
@@ -1754,7 +1801,7 @@
             ],
             "description": "Symfony Filesystem Component",
             "homepage": "https://symfony.com",
-            "time": "2019-02-07T11:40:08+00:00"
+            "time": "2019-02-07 11:40:08"
         },
         {
             "name": "symfony/finder",
@@ -1803,7 +1850,7 @@
             ],
             "description": "Symfony Finder Component",
             "homepage": "https://symfony.com",
-            "time": "2019-04-06T13:51:08+00:00"
+            "time": "2019-04-06 13:51:08"
         },
         {
             "name": "symfony/http-foundation",
@@ -1857,7 +1904,7 @@
             ],
             "description": "Symfony HttpFoundation Component",
             "homepage": "https://symfony.com",
-            "time": "2019-04-17T14:56:00+00:00"
+            "time": "2019-04-17 14:56:00"
         },
         {
             "name": "symfony/http-kernel",
@@ -1946,7 +1993,7 @@
             ],
             "description": "Symfony HttpKernel Component",
             "homepage": "https://symfony.com",
-            "time": "2019-04-17T16:17:13+00:00"
+            "time": "2019-04-17 16:17:13"
         },
         {
             "name": "symfony/polyfill-ctype",
@@ -2004,7 +2051,7 @@
                 "polyfill",
                 "portable"
             ],
-            "time": "2019-02-06T07:57:58+00:00"
+            "time": "2019-02-06 07:57:58"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -2063,7 +2110,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2019-02-06T07:57:58+00:00"
+            "time": "2019-02-06 07:57:58"
         },
         {
             "name": "symfony/yaml",
@@ -2122,7 +2169,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2019-03-30T15:58:42+00:00"
+            "time": "2019-03-30 15:58:42"
         },
         {
             "name": "twig/extensions",
@@ -2177,7 +2224,7 @@
                 "i18n",
                 "text"
             ],
-            "time": "2018-12-05T18:34:18+00:00"
+            "time": "2018-12-05 18:34:18"
         },
         {
             "name": "twig/twig",
@@ -2244,7 +2291,7 @@
             "keywords": [
                 "templating"
             ],
-            "time": "2019-04-16T17:14:24+00:00"
+            "time": "2019-04-16 17:14:24"
         },
         {
             "name": "webignition/disallowed-character-terminated-string",
@@ -2285,7 +2332,7 @@
                 "string",
                 "terminated"
             ],
-            "time": "2012-07-16T21:29:50+00:00"
+            "time": "2012-07-16 21:29:50"
         },
         {
             "name": "webignition/internet-media-type",
@@ -2336,7 +2383,7 @@
                 "media type",
                 "media-type"
             ],
-            "time": "2018-03-12T14:54:00+00:00"
+            "time": "2018-03-12 14:54:00"
         },
         {
             "name": "webignition/quoted-string",
@@ -2383,7 +2430,7 @@
                 "parser",
                 "quoted-string"
             ],
-            "time": "2017-05-11T11:41:31+00:00"
+            "time": "2017-05-11 11:41:31"
         },
         {
             "name": "webignition/string-parser",
@@ -2430,13 +2477,15 @@
                 "parser",
                 "string"
             ],
-            "time": "2017-05-11T10:04:12+00:00"
+            "time": "2017-05-11 10:04:12"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {
+        "mavimo/sculpin-redirect-bundle": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],

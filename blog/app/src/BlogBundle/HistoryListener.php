@@ -2,6 +2,7 @@
 
 namespace Vrkansagara\Blog\BlogBundle;
 
+use Sculpin\Core\Event\ConvertEvent;
 use Sculpin\Core\Event\SourceSetEvent;
 use Sculpin\Core\Permalink\SourcePermalinkFactoryInterface;
 use Sculpin\Core\Sculpin;
@@ -40,6 +41,7 @@ class HistoryListener implements EventSubscriberInterface
     {
         return [
 //            Sculpin::EVENT_BEFORE_RUN => 'beforRun',
+//            Sculpin::EVENT_AFTER_FORMAT => 'afterFormate',
         ];
     }
 
@@ -48,11 +50,17 @@ class HistoryListener implements EventSubscriberInterface
      */
     public function beforRun(SourceSetEvent $event)
     {
-        print_r(__METHOD__);
+//        print_r(__METHOD__);
 //        print_r(__METHOD__);exit;
         /** @var SourceInterface $source */
         foreach ($event->allSources() as $source) {
 //            print_r($source);exit;
         }
+    }
+
+    public function afterFormate(SourceSetEvent $event)
+    {
+//        print_r($event->allSources());
+        print_r(__METHOD__);exit;
     }
 }

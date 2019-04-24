@@ -1,6 +1,15 @@
 {
+  "name": "vrkansagara",
+  "version": "1.0.0",
+  "description": "Vrkansagara Blog Skeleton ",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vallabh Kansagara (vrkansagara.in)",
+  "license": "MIT",
   "dependencies": {
-    "@symfony/webpack-encore": "^0.24.0",
+    "@symfony/webpack-encore": "^0.27.0",
     "bootstrap": "^4.3.1",
     "highlightjs": "^9.12.0",
     "jquery": "^3.3.1",

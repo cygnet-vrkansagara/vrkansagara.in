@@ -16,7 +16,8 @@
         }
     ],
     "require": {
-        "sculpin/sculpin": "^3.0"
+        "sculpin/sculpin": "^3.0",
+        "mavimo/sculpin-redirect-bundle": "@dev"
     },
     "autoload": {
         "psr-4": {
@@ -29,7 +30,7 @@
         ],
         "sculpin-watch": [
             "Composer\\Config::disableProcessTimeout",
-            "./vendor/bin/sculpin generate --watch --server"
+            "yarn encore dev && ./vendor/bin/sculpin generate --watch --server"
         ],
         "yarn-watch": [
             "Composer\\Config::disableProcessTimeout",
