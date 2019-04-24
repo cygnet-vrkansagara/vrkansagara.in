@@ -2,73 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03daa84a-546e-4d74-bc24-8257f6d89f80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myserver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/about/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/assets/css/app.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/assets/icons/jackson/1024x1024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/assets/icons/jackson/120x120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/assets/icons/jackson/128x128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/assets/icons/jackson/152x152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/assets/icons/jackson/196x196.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/assets/icons/jackson/2048x2048.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/assets/icons/jackson/512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/assets/icons/jackson/76x76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/assets/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/atom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/2011/12/20/happy-birthday-sculpin/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/2012/09/29/symfony-live-hacking-day/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/2012/10/16/balrog/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/2012/11/26/and-then-there-was-textile-support/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/2012/11/27/lorem-ipsum/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/2013/02/04/highlight/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/categories/features.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/categories/features/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/categories/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/categories/personal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/categories/personal/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/categories/testing.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/categories/testing/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/tags/balrog.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/tags/balrog/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/tags/community.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/tags/community/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/tags/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/tags/markdown.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/tags/markdown/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/tags/sculpin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/tags/sculpin/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/tags/sensio.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/tags/sensio/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/tags/static site generator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/tags/static site generator/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/tags/symfony live.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/tags/symfony live/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/tags/symfony.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/tags/symfony/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/tags/textile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/blog/tags/textile/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/build/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/build/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/build/entrypoints.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/build/jackson/1024x1024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/build/jackson/120x120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/build/jackson/128x128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/build/jackson/152x152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/build/jackson/196x196.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/build/jackson/2048x2048.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/build/jackson/512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/build/jackson/76x76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/build/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/nweb.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/page/2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/sitemap.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/app/SculpinKernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/init.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/app/config/sculpin_site.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blog/app/config/sculpin_site.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/composer.json" afterDir="false" />
+    </list>
+    <list id="63438fc4-0f90-49d2-88f3-7b4a67a4b4c0" name="ignore" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,16 +21,97 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/app/config/sculpin_site.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="320">
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/app/SculpinKernel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="e#7#66#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/app/src/BlogBundle/HistoryListener.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="42" column="10" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+              <folding>
+                <element signature="e#52#90#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/app/src/BlogBundle/DependencyInjection/SculpinBlogExtension.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="37" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="37" />
+              <folding>
+                <element signature="e#72#113#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/app/src/BlogBundle/Resources/config/services.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="77" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/app/src/BlogBundle/SculpinBlogBundle.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/app/config/sculpin_kernel.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.idea/workspace.xml</find>
+      <find>$outputDir</find>
+      <find>Shopware\Devdocs</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/blog/app/src/GitHistoryBundle</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -99,8 +120,75 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/blog/init.sh" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/blog/app/config/sculpin_site.yml" />
+        <option value="$PROJECT_DIR$/blog/app/src/Blog/s" />
+        <option value="$PROJECT_DIR$/blog/app/src/Blog/SearchIndexListener.php" />
+        <option value="$PROJECT_DIR$/blog/app/src/Blog/ContentListener.php" />
+        <option value="$PROJECT_DIR$/blog/app/src/Blog/SculpinBlogBundle.php" />
+        <option value="$PROJECT_DIR$/blog/app/src/SculpinBlogBundle/ContentListener.php" />
+        <option value="$PROJECT_DIR$/blog/app/src/SculpinBlogBundle/SculpinBlogBundle.php" />
+        <option value="$PROJECT_DIR$/blog/app/src/SculpinBlogBundle/SculpinContentListener.php" />
+        <option value="$PROJECT_DIR$/blog/app/src/GitHistoryBundle/HistoryListener.php" />
+        <option value="$PROJECT_DIR$/blog/app/src/BlogBundle/SculpinBlogBundle.php" />
+        <option value="$PROJECT_DIR$/blog/app/src/BlogBundle/DependencyInjection/SculpinGitHistoryExtension.php" />
+        <option value="$PROJECT_DIR$/blog/app/src/BlogBundle/DependencyInjection/SculpinBlogExtension.php" />
+        <option value="$PROJECT_DIR$/blog/composer.json" />
+        <option value="$PROJECT_DIR$/blog/app/src/BlogBundle/Resources/config/services.xml" />
+        <option value="$PROJECT_DIR$/blog/app/SculpinKernel.php" />
+        <option value="$PROJECT_DIR$/blog/app/src/BlogBundle/HistoryListener.php" />
       </list>
     </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/blog/vendor/webignition/string-parser" />
+      <path value="$PROJECT_DIR$/blog/vendor/webignition/quoted-string" />
+      <path value="$PROJECT_DIR$/blog/vendor/webignition/disallowed-character-terminated-string" />
+      <path value="$PROJECT_DIR$/blog/vendor/webignition/internet-media-type" />
+      <path value="$PROJECT_DIR$/blog/vendor/ringcentral/psr7" />
+      <path value="$PROJECT_DIR$/blog/vendor/netcarver/textile" />
+      <path value="$PROJECT_DIR$/blog/vendor/evenement/evenement" />
+      <path value="$PROJECT_DIR$/blog/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/blog/vendor/sculpin/sculpin" />
+      <path value="$PROJECT_DIR$/blog/vendor/sculpin/sculpin-theme-composer-plugin" />
+      <path value="$PROJECT_DIR$/blog/vendor/michelf/php-markdown" />
+      <path value="$PROJECT_DIR$/blog/vendor/dflydev/ant-path-matcher" />
+      <path value="$PROJECT_DIR$/blog/vendor/dflydev/canal" />
+      <path value="$PROJECT_DIR$/blog/vendor/dflydev/placeholder-resolver" />
+      <path value="$PROJECT_DIR$/blog/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/blog/vendor/dflydev/dot-access-configuration" />
+      <path value="$PROJECT_DIR$/blog/vendor/dflydev/apache-mime-types" />
+      <path value="$PROJECT_DIR$/blog/vendor/react/event-loop" />
+      <path value="$PROJECT_DIR$/blog/vendor/react/promise-stream" />
+      <path value="$PROJECT_DIR$/blog/vendor/react/socket" />
+      <path value="$PROJECT_DIR$/blog/vendor/react/promise-timer" />
+      <path value="$PROJECT_DIR$/blog/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/blog/vendor/react/http" />
+      <path value="$PROJECT_DIR$/blog/vendor/react/dns" />
+      <path value="$PROJECT_DIR$/blog/vendor/react/stream" />
+      <path value="$PROJECT_DIR$/blog/vendor/react/cache" />
+      <path value="$PROJECT_DIR$/blog/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/blog/vendor/twig/extensions" />
+      <path value="$PROJECT_DIR$/blog/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/blog/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/blog/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/blog/vendor/composer" />
+    </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="538" />
@@ -113,6 +201,50 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vrkansagara.in" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vrkansagara.in" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vrkansagara.in" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vrkansagara.in" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vrkansagara.in" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vrkansagara.in" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vrkansagara.in" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vrkansagara.in" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vrkansagara.in" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vrkansagara.in" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vrkansagara.in" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vrkansagara.in" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BlogBundle" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -124,24 +256,22 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="vrkansagara.in" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vrkansagara.in" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blog/app/src" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blog/app/src" />
+      <recent name="$PROJECT_DIR$/blog/app/src/Blog" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/blog" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -161,23 +291,33 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="03daa84a-546e-4d74-bc24-8257f6d89f80" name="Default Changelist" comment="" />
+      <changelist id="63438fc4-0f90-49d2-88f3-7b4a67a4b4c0" name="ignore" comment="" />
       <created>1556085265341</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556085265341</updated>
       <workItem from="1556085266640" duration="32000" />
-      <workItem from="1556085313276" duration="42000" />
+      <workItem from="1556085313276" duration="231000" />
+      <workItem from="1556086811322" duration="4600000" />
     </task>
+    <task id="LOCAL-00001" summary="adding www git keep file.">
+      <created>1556085470509</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556085470509</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117000" />
+    <option name="totallyTimeSpent" value="4906000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="28" y="-11" width="1339" height="780" extended-state="6" />
+    <frame x="29" y="-4" width="1337" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981302" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25871417" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -190,8 +330,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.30635837" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32884902" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.30635837" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -201,11 +341,147 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding www git keep file." />
+    <option name="LAST_COMMIT_MESSAGE" value="adding www git keep file." />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/s3.conf.dist">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/publish.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/init.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="77" selection-start-line="17" selection-start-column="77" selection-end-line="17" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/config/sculpin_site.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/src/SculpinBlogBundle/SculpinContentListener.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="e#35#60#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/src/SculpinBlogBundle/SculpinBlogBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/config/sculpin_kernel.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/vendor/sculpin/sculpin/src/Sculpin/Core/Event/SourceSetEvent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/src/BlogBundle/SculpinBlogBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/src/BlogBundle/DependencyInjection/SculpinBlogExtension.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="37" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="37" />
+          <folding>
+            <element signature="e#72#113#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/src/BlogBundle/Resources/config/services.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="77" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/SculpinKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#7#66#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/src/BlogBundle/HistoryListener.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="42" column="10" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+          <folding>
+            <element signature="e#52#90#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

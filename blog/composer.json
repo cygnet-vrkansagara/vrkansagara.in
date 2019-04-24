@@ -18,6 +18,11 @@
     "require": {
         "sculpin/sculpin": "^3.0"
     },
+    "autoload": {
+        "psr-4": {
+            "Vrkansagara\\Blog\\": "app/src/"
+        }
+    },
     "scripts": {
         "publish": [
             "./publish.sh"

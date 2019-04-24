@@ -7,3 +7,13 @@ subtitle: To Get You Started
 # Insert your disqus shortname
 #disqus:
 #    shortname:
+
+default_date_format: "Y-m-d H:i:s"
+
+authors:
+  dk:
+    name: Vallabh Kansagara
+    title: Software Engineer
+    bio: I am another software engineer
+    github: https://github.com/vrkansagara
+    resume: https://resume.github.io/?vrkansagara
