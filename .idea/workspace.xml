@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03daa84a-546e-4d74-bc24-8257f6d89f80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myserver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/about/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/css/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/icons/jackson/1024x1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/icons/jackson/120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/icons/jackson/128x128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/icons/jackson/152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/icons/jackson/196x196.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/icons/jackson/2048x2048.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/icons/jackson/512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/icons/jackson/76x76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/atom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/2011/12/20/happy-birthday-sculpin/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/2012/09/29/symfony-live-hacking-day/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/2012/10/16/balrog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/2012/11/26/and-then-there-was-textile-support/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/2012/11/27/lorem-ipsum/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/2013/02/04/highlight/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/categories/features.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/categories/features/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/categories/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/categories/personal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/categories/personal/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/categories/testing.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/categories/testing/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/tags/balrog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/tags/balrog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/tags/community.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/tags/community/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/tags/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/tags/markdown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/tags/markdown/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/tags/sculpin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/tags/sculpin/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/tags/sensio.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/tags/sensio/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/tags/static site generator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/tags/static site generator/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/tags/symfony live.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/tags/symfony live/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/tags/symfony.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/tags/symfony/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/tags/textile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/tags/textile/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/build/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/build/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/build/entrypoints.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/build/jackson/1024x1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/build/jackson/120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/build/jackson/128x128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/build/jackson/152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/build/jackson/196x196.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/build/jackson/2048x2048.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/build/jackson/512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/build/jackson/76x76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/build/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/nweb.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/page/2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/sitemap.xml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/blog/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="538" />
+    <option name="y" value="-11" />
+    <option name="width" value="1339" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="vrkansagara.in" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/git/cygnet-vrkansagara/vrkansagara.in" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vrkansagara.in" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vrkansagara.in" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03daa84a-546e-4d74-bc24-8257f6d89f80" name="Default Changelist" comment="" />
+      <created>1556085265341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556085265341</updated>
+      <workItem from="1556085266640" duration="32000" />
+      <workItem from="1556085313276" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="117000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="28" y="-11" width="1339" height="780" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981302" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.30635837" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
