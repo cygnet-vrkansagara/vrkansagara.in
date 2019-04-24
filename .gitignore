@@ -10,3 +10,4 @@ blog/s3.conf
 blog/vendor/
 s3.conf
 server/nweb/*.log
+.idea/
