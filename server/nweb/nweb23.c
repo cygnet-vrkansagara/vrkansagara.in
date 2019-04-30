@@ -1,3 +1,8 @@
+/**
+Compile := cc -O2 server/nweb/nweb23.c -o myserver
+Process := sudo lsof -iTCP -sTCP:LISTEN -Pn
+Server  := ./myserver 8181 blog/output_dev/
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -117,7 +122,7 @@ void web(int fd, int hit)
 	logger(LOG,"SEND",&buffer[5],hit);
 	len = (long)lseek(file_fd, (off_t)0, SEEK_END); /* lseek to the file end to find the length */
 	      (void)lseek(file_fd, (off_t)0, SEEK_SET); /* lseek back to the file start ready for reading */
-          (void)sprintf(buffer,"HTTP/1.1 200 OK\nServer: nweb/%d.0\nContent-Length: %ld\nConnection: close\nContent-Type: %s\n\n", VERSION, len, fstr); /* Header + a blank line */
+          (void)sprintf(buffer,"HTTP/1.1 200 OK\nServer: VRKANSAGARA/%d.0\nContent-Length: %ld\nConnection: close\nContent-Type: %s\n\n", VERSION, len, fstr); /* Header + a blank line */
 	logger(LOG,"Header",buffer,hit);
 	(void)write(fd,buffer,strlen(buffer));
 

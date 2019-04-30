@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03daa84a-546e-4d74-bc24-8257f6d89f80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blog/contact.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/app/SculpinKernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/blog/app/SculpinKernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/app/src/BlogBundle/HistoryListener.php" beforeDir="false" afterPath="$PROJECT_DIR$/blog/app/src/BlogBundle/HistoryListener.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/blog/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/blog/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/nweb/nweb23.c" beforeDir="false" afterPath="$PROJECT_DIR$/server/nweb/nweb23.c" afterDir="false" />
     </list>
     <list id="63438fc4-0f90-49d2-88f3-7b4a67a4b4c0" name="ignore" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,76 +21,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/init.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/publish.sh">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="300">
-                <caret line="51" selection-start-line="51" selection-end-line="51" selection-end-column="14" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/yarn.lock">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="168" column="17" lean-forward="true" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/webpack.config.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/composer.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog/source/_layouts/default.html">
+        <entry file="file://$PROJECT_DIR$/blog/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="86" column="19" lean-forward="true" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
+            <state relative-caret-position="260">
+              <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/app/config/sculpin_kernel.yml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -105,6 +40,13 @@
       <find>$source</find>
       <find>dev</find>
       <find>dev'</find>
+      <find>host</find>
+      <find>ez</find>
+      <find>mysqli_real_escape_string</find>
+      <find>read(</find>
+      <find>socketfd</find>
+      <find>request</find>
+      <find>VERSION</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -120,7 +62,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/blog/init.sh" />
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/blog/app/config/sculpin_site.yml" />
         <option value="$PROJECT_DIR$/blog/app/src/Blog/s" />
@@ -140,6 +81,12 @@
         <option value="$PROJECT_DIR$/blog/composer.json" />
         <option value="$PROJECT_DIR$/blog/package.json" />
         <option value="$PROJECT_DIR$/blog/yarn.lock" />
+        <option value="$PROJECT_DIR$/blog/vendor/ezsql/ezsql/lib/ezQuery.php" />
+        <option value="$PROJECT_DIR$/blog/contact.php" />
+        <option value="$PROJECT_DIR$/blog/init.sh" />
+        <option value="$PROJECT_DIR$/server/mysql.c" />
+        <option value="$PROJECT_DIR$/blog/output_dev/nweb.log" />
+        <option value="$PROJECT_DIR$/server/nweb/nweb23.c" />
       </list>
     </option>
   </component>
@@ -191,16 +138,17 @@
       <path value="$PROJECT_DIR$/blog/vendor/psr/container" />
       <path value="$PROJECT_DIR$/blog/vendor/composer" />
       <path value="$PROJECT_DIR$/blog/vendor/mavimo/sculpin-redirect-bundle" />
+      <path value="$PROJECT_DIR$/blog/vendor/ezsql/ezsql" />
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="538" />
-    <option name="y" value="-11" />
-    <option name="width" value="1339" />
-    <option name="height" value="780" />
+    <option name="x" value="33" />
+    <option name="y" value="-4" />
+    <option name="width" value="1333" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -210,6 +158,11 @@
             <path>
               <item name="vrkansagara.in" type="b2602c69:ProjectViewProjectNode" />
               <item name="vrkansagara.in" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vrkansagara.in" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vrkansagara.in" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -226,24 +179,6 @@
               <item name="vrkansagara.in" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="~/git/cygnet-vrkansagara/vrkansagara.in" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="blog" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="vrkansagara.in" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/git/cygnet-vrkansagara/vrkansagara.in" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="blog" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="source" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="vrkansagara.in" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/git/cygnet-vrkansagara/vrkansagara.in" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="blog" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="source" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="_layouts" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="vrkansagara.in" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/git/cygnet-vrkansagara/vrkansagara.in" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="server" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -292,7 +227,13 @@
       <workItem from="1556085266640" duration="32000" />
       <workItem from="1556085313276" duration="231000" />
       <workItem from="1556086811322" duration="5418000" />
-      <workItem from="1556094287388" duration="3642000" />
+      <workItem from="1556094287388" duration="3818000" />
+      <workItem from="1556099382163" duration="4905000" />
+      <workItem from="1556188161771" duration="3368000" />
+      <workItem from="1556198717287" duration="1126000" />
+      <workItem from="1556253746234" duration="3153000" />
+      <workItem from="1556540852439" duration="2422000" />
+      <workItem from="1556602766149" duration="584000" />
     </task>
     <task id="LOCAL-00001" summary="adding www git keep file.">
       <created>1556085470509</created>
@@ -301,17 +242,23 @@
       <option name="project" value="LOCAL" />
       <updated>1556085470509</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding mysql connector.">
+      <created>1556199494333</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556199494333</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9366000" />
+    <option name="totallyTimeSpent" value="25100000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="28" y="-11" width="1339" height="780" extended-state="6" />
-    <editor active="true" />
+    <frame x="32" y="-11" width="1335" height="780" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23005421" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17948718" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -324,8 +271,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32884902" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.22869955" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.30635837" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -337,7 +285,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding www git keep file." />
-    <option name="LAST_COMMIT_MESSAGE" value="adding www git keep file." />
+    <MESSAGE value="adding mysql connector." />
+    <option name="LAST_COMMIT_MESSAGE" value="adding mysql connector." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -428,10 +377,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/app/config/sculpin_kernel.yml">
+    <entry file="file://$PROJECT_DIR$/blog/123package.json" />
+    <entry file="file://$PROJECT_DIR$/blog/app/src/BlogBundle/HistoryListener.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+          <folding>
+            <element signature="e#47#83#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/publish.sh">
+    <entry file="file://$PROJECT_DIR$/blog/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/vendor/ezsql/ezsql/lib/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/vendor/ezsql/ezsql/lib/DInjector.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/source/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="94" selection-start-line="6" selection-start-column="94" selection-end-line="6" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/config/sculpin_kernel.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/README.md">
@@ -444,20 +439,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/123package.json">
+    <entry file="file://$PROJECT_DIR$/blog/publish.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="26" selection-start-line="4" selection-start-column="4" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="335">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/app/src/BlogBundle/HistoryListener.php">
+    <entry file="file://$PROJECT_DIR$/blog/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/vendor/ezsql/ezsql/lib/Config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
-          <folding>
-            <element signature="e#47#83#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="434">
+          <caret line="113" column="116" selection-start-line="107" selection-start-column="12" selection-end-line="113" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/vendor/ezsql/ezsql/lib/Database/ez_mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="97" column="20" selection-start-line="97" selection-start-column="20" selection-end-line="97" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -468,34 +473,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/webpack.config.js">
+    <entry file="file://$PROJECT_DIR$/server/nweb/client.c">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/package.json">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/PDO/PDO.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        <state relative-caret-position="16800">
+          <caret line="840" column="20" selection-start-line="840" selection-start-column="20" selection-end-line="840" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/yarn.lock">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31720">
+          <caret line="1589" column="9" selection-start-line="1589" selection-start-column="9" selection-end-line="1589" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/vendor/ezsql/ezsql/lib/ezQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13120">
+          <caret line="657" column="42" selection-start-line="657" selection-start-column="42" selection-end-line="657" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/mysql.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/nweb/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="71" column="23" lean-forward="true" selection-start-line="71" selection-end-line="71" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/output_dev/nweb.log" />
+    <entry file="file://$PROJECT_DIR$/server/nweb/nweb23.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
-          <caret line="168" column="17" lean-forward="true" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/composer.json">
+    <entry file="file://$PROJECT_DIR$/blog/output_dev/index.html" />
+    <entry file="file://$PROJECT_DIR$/blog/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/source/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="86" column="19" lean-forward="true" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
+        <state relative-caret-position="260">
+          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
         </state>
       </provider>
     </entry>

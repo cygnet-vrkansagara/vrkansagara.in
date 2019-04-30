@@ -1,0 +1,18 @@
+language: php
+
+php:
+    - 7.1
+
+sudo: false
+
+cache:
+  directories:
+    - $HOME/.composer/cache
+
+before_script:
+    - if [[ $TRAVIS_PULL_REQUEST == 'false' && $TRAVIS_BRANCH == 'master' ]]; then export SYMFONY__ALGOLIA_ENABLED="1"; fi;
+    - composer self-update
+    - composer install
+
+script:
+    - ./vendor/bin/sculpin generate --env=prod --url="https://vrkansagara.in"
