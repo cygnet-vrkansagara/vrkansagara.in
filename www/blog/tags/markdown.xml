@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title><![CDATA[Sculpin Blog Skeleton]]></title>
+    <title><![CDATA[]]></title>
     <link href="/blog/tags/markdown.xml" rel="self"/>
     <link href="/"/>
-    <updated>2019-04-23T15:38:34+00:00</updated>
+    <updated>2019-04-23T17:39:57+00:00</updated>
     <id>/</id>
         <generator uri="http://sculpin.io/">Sculpin</generator>
             <entry>
             <title type="html"><![CDATA[Happy Birthday Sculpin!]]></title>
-            <link href="/blog/2011/12/20/happy-birthday-sculpin/"/>
+            <link href="/2011/12/20/happy-birthday-sculpin"/>
             <updated>2011-12-20T00:00:00+00:00</updated>
-            <id>/blog/2011/12/20/happy-birthday-sculpin/</id>
+            <id>/2011/12/20/happy-birthday-sculpin</id>
             <content type="html"><![CDATA[<p>The first commit to the Sculpin repository was made on December 20th, 2011.
 What a trip since then!</p>
 

@@ -1,7 +1,10 @@
 sculpin_content_types:
     posts:
-        permalink: blog/:year/:month/:day/:filename/
+        permalink: blog/:year/:month/:day/:filename
+#        permalink: :basename_real
 
+sculpin_pagination:
+    max_per_page: 1
 # To disable posts (e.g., if you aren't planning on having any posts and Sculpin's watch mode complains):
 #sculpin_content_types:
 #    posts:
