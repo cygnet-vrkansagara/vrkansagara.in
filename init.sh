@@ -5,6 +5,7 @@ set -o pipefail
 
 cd blog
 composerBin="./composer.phar"
+imagePath="./html/assets/img"
 
 if [[ ! -x "$composerBin" ]]; then
     echo "Downloading composer..."
@@ -15,3 +16,5 @@ else
     $composerBin self-update
 fi
 cd ../
+
+find $imagePath -type d -exec sh -c ' ls "$0"/*.jpg 2>/dev/null && jpegoptim --strip-all -t "$0"/*.jpg ' {} \;
