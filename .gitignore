@@ -10,3 +10,4 @@ blog/s3.conf
 blog/vendor/
 server/nweb/*.log
 www/*
+html/node_modules/
