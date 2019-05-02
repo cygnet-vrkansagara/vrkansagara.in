@@ -1,0 +1,29 @@
+{
+  "short_name": "mail.vrkansagara.in",
+  "name": "Vallabh Kansagara ( VRKANSAGARA ) | Programmer to Programming | vrkansagara.in",
+  "icons": [
+    {
+      "src": "/assets/images/favicon.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/favicon.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/favicon.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/favicon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any"
+}
