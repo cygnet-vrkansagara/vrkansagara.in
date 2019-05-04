@@ -16,7 +16,13 @@
         }
     ],
     "require": {
-        "sculpin/sculpin": "^3.0"
+        "sculpin/sculpin": "^3.0",
+        "mavimo/sculpin-redirect-bundle": "@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vrkansagara\\Blog\\": "app/src/"
+        }
     },
     "scripts": {
         "publish": [

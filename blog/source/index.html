@@ -3,7 +3,7 @@ layout: default
 title: Home
 generator: pagination
 pagination:
-    max_per_page: 3
+    max_per_page: 2
 use:
     - posts
 ---
@@ -25,9 +25,3 @@ use:
         {% endif %}
     </article>
 {% endfor %}
-{% if page.pagination.previous_page or page.pagination.next_page %}
-    <nav>
-        {% if page.pagination.previous_page %}<a href="{{ site.url }}{{ page.pagination.previous_page.url }}">Newer Posts</a>{% endif %}<br />
-        {% if page.pagination.next_page %}<a href="{{ site.url }}{{ page.pagination.next_page.url }}">Older Posts</a>{% endif %}<br />
-    </nav>
-{% endif %}

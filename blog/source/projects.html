@@ -1,0 +1,25 @@
+---
+layout: default
+title: Projects
+generator: pagination
+pagination:
+    provider: data.projects
+    max_per_page: 3
+use: [projects]
+---
+<ul>
+    {% for project in page.pagination.items %}
+        <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+    {% endfor %}
+</ul>
+
+<nav>
+    {% if page.pagination.previous_page or page.pagination.next_page %}
+    {% if page.pagination.previous_page %}
+    <a href="{{ site.url }}{{ page.pagination.previous_page.url }}">Newer Projects</a>
+    {% endif %}
+    {% if page.pagination.next_page %}
+    <a href="{{ site.url }}{{ page.pagination.next_page.url }}">Older Projects</a>
+    {% endif %}
+    {% endif %}
+</nav>
