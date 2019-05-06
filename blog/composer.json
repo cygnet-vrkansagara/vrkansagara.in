@@ -29,13 +29,15 @@
         "publish": [
             "./publish.sh"
         ],
-        "sculpin-watch": [
+        "watch": [
             "Composer\\Config::disableProcessTimeout",
-            "yarn encore dev && ./vendor/bin/sculpin generate --watch --server"
+            "php ./vendor/bin/sculpin generate --watch --server"
         ],
         "yarn-watch": [
             "Composer\\Config::disableProcessTimeout",
             "yarn encore dev --watch"
-        ]
+        ],
+        "local": "php ./vendor/bin/sculpin generate --env=prod --url=http://vrkansagara.local",
+        "production": "php ./vendor/bin/sculpin generate --env=prod --url=https://vrkansagara.in"
     }
 }

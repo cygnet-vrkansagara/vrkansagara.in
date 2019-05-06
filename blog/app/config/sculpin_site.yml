@@ -1,10 +1,12 @@
 # The contents of this file are parsed and made available as
 # via `site.*`. So for example, {{ site.title }} can be used
 # in a template to get the contents of the `title` key.
-title: Sculpin Blog Skeleton
-subtitle: To Get You Started
+title: Vallabh Kansagara ( VRKANSAGARA )
+subtitle: Programmer to Programming
+
 
 # Insert your disqus shortname
+<<<<<<< HEAD
 #disqus:
 #    shortname:
 
@@ -17,3 +19,7 @@ authors:
     bio: I am another software engineer
     github: https://github.com/vrkansagara
     resume: https://resume.github.io/?vrkansagara
+=======
+disqus:
+    shortname: vrkansagara
+>>>>>>> upstream/develop

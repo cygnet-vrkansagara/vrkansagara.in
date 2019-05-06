@@ -8,7 +8,9 @@ blog/node_modules/
 blog/source/build/
 blog/s3.conf
 blog/vendor/
-s3.conf
 server/nweb/*.log
 .idea/
 myserver
+www/*
+html/node_modules/
+
